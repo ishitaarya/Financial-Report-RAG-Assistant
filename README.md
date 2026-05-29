@@ -1,8 +1,8 @@
-# 📊 Financial Report RAG Assistant
+#  Financial Report RAG Assistant
 
 An AI-powered Financial Report RAG Assistant that enables users to upload annual reports, perform semantic search using FAISS, and generate context-aware answers, financial insights, and executive summaries using Google Gemini.
 
-## 🚀 Features
+##  Features
 - PDF Upload & Processing
 - Semantic Search with FAISS
 - Financial Question Answering
@@ -22,5 +22,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## 👩‍💻 Author
-**Ishita Arya**
